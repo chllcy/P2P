@@ -16,12 +16,12 @@ import re
 
 def sendmail():
     # 输入Email地址和口令:
-    from_addr = "chenhao2@myhexin.com"
-    password = "NIhao2050"
+    from_addr = ""
+    password = ""
     # 输入SMTP服务器地址:
-    smtp_server = "mail.myhexin.com"
+    smtp_server = ""
     # 输入收件人地址:
-    to_addr = "chenhao2@myhexin.com"
+    to_addr = ""
 
     message = MIMEText('licaifang...', 'plain', 'utf-8')
 
