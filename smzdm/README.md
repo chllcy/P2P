@@ -1,3 +1,3 @@
 # 效果图
-![][smzdm1]
-![][smzdm2]
+![][https://github.com/chllcy/P2P/blob/master/smzdm/smzdm1.png]
+![][https://github.com/chllcy/P2P/blob/master/smzdm/smzdm2.png]
